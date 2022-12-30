@@ -19,6 +19,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_lavender.mk
+     $(LOCAL_DIR)/twrp_clover.mk
 
-COMMON_LUNCH_CHOICES := twrp_lavender-eng
+COMMON_LUNCH_CHOICES := twrp_clover-eng
